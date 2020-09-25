@@ -6,8 +6,10 @@ Requirements:
 * start redis service 
  
 Requirements in more detail: 
+* redis, version 5.0.9 (downloaded via pip3)
 * flask, version: 1.1.1 (downloaded via pip3) 
-* PyPDF2, version: 1.26.0 (downloaded via pip3) 
+* PyPDF2, version: 1.26.0 (downloaded via pip3)
+* beautifulsoup4 (bs4), version: 4.8.0 (downloaded via pip3) 
  
  
 Adapting the paths in views.py: 
